@@ -14,7 +14,7 @@ pip install matplotlib networkx tkinter
 1. Run the script:
 
     ```bash
-    python johnson_algorithm_gui.py
+    python johnson_algorithm.py
     ```
 2. Enter the adjacency matrix in the text box. Example:
     ```
